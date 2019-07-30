@@ -1,5 +1,7 @@
 # Big Picture
 
+![rel](rel.png)
+
 ```mermaid
 graph LR;
 　　alg-intro(代数学基础)-->combi(组合学);
