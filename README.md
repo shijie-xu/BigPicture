@@ -1,5 +1,9 @@
 # Big Picture
 
+-  代数学基础，基础课程，[PDF](alg-Intro.pdf) 
+
+
+
 ![rel](rel.png)
 
 ```mermaid
