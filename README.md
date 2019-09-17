@@ -1,5 +1,4 @@
-# Big Picture
-
+# Work Diary
 ### progress
 
 - GTM 52, algebraic geometry, robin hartshorne
