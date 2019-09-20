@@ -14,3 +14,5 @@
 [CLICK HERE](term.md)
 
 ### navigator
+
+![](img/navi.svg)
