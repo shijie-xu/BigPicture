@@ -12,3 +12,5 @@
 
 ### terminology
 [CLICK HERE](term.md)
+
+### navigator
