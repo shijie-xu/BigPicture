@@ -16,6 +16,7 @@
 | 同胚 | homeomorphism |          |
 | 同构 | isomorphism   |          |
 | 同态 | homomorphism  |          |
+| 态射 | morphism      |morphisme |
 | 同伦 | homotopy      |          |
 | 同调 | homology      |          |
 | 上同调 | cohomology  |          |
